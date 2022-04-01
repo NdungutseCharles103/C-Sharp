@@ -1,0 +1,15 @@
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\bin\Debug\net6.0\Calculator_In_cs.exe
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\bin\Debug\net6.0\Calculator_In_cs.deps.json
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\bin\Debug\net6.0\Calculator_In_cs.runtimeconfig.json
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\bin\Debug\net6.0\Calculator_In_cs.dll
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\bin\Debug\net6.0\Calculator_In_cs.pdb
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\Calculator_In_cs.csproj.AssemblyReference.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\Calculator_In_cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\Calculator_In_cs.AssemblyInfoInputs.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\Calculator_In_cs.AssemblyInfo.cs
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\Calculator_In_cs.csproj.CoreCompileInputs.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\Calculator_In_cs.dll
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\refint\Calculator_In_cs.dll
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\Calculator_In_cs.pdb
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\Calculator_In_cs.genruntimeconfig.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Calculator_In_cs\obj\Debug\net6.0\ref\Calculator_In_cs.dll
