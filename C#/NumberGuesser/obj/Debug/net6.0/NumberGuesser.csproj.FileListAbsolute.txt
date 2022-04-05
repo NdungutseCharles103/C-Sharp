@@ -1,0 +1,15 @@
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.exe
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.deps.json
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.runtimeconfig.json
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.dll
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\bin\Debug\net6.0\NumberGuesser.pdb
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.csproj.AssemblyReference.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.AssemblyInfoInputs.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.AssemblyInfo.cs
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.csproj.CoreCompileInputs.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.dll
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\refint\NumberGuesser.dll
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.pdb
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\NumberGuesser.genruntimeconfig.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\NumberGuesser\obj\Debug\net6.0\ref\NumberGuesser.dll
