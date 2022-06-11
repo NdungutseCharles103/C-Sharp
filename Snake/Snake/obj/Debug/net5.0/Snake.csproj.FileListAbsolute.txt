@@ -1,0 +1,16 @@
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\bin\Debug\net5.0\Snake.exe
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\bin\Debug\net5.0\Snake.deps.json
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.json
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.dev.json
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\bin\Debug\net5.0\Snake.dll
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\bin\Debug\net5.0\Snake.pdb
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\Snake.csproj.AssemblyReference.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfoInputs.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfo.cs
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\Snake.csproj.CoreCompileInputs.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\Snake.dll
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\ref\Snake.dll
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\Snake.pdb
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\Snake.genruntimeconfig.cache
+D:\Coding 🧑‍💻💻\ExtraLanguages\ExtraLanguages\C#\Snake\Snake\obj\Debug\net5.0\refint\Snake.dll
