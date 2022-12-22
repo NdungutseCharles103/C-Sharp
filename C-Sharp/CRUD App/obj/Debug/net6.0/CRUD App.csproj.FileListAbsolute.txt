@@ -1,0 +1,26 @@
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\bin\Debug\net6.0\appsettings.Development.json
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\bin\Debug\net6.0\appsettings.json
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\bin\Debug\net6.0\CRUD App.staticwebassets.runtime.json
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\bin\Debug\net6.0\CRUD App.exe
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\bin\Debug\net6.0\CRUD App.deps.json
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\bin\Debug\net6.0\CRUD App.runtimeconfig.json
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\bin\Debug\net6.0\CRUD App.dll
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\bin\Debug\net6.0\CRUD App.pdb
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.csproj.AssemblyReference.cache
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.AssemblyInfoInputs.cache
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.AssemblyInfo.cs
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.csproj.CoreCompileInputs.cache
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.RazorAssemblyInfo.cache
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.RazorAssemblyInfo.cs
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\staticwebassets.build.json
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\staticwebassets.development.json
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\scopedcss\bundle\CRUD App.styles.css
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\scopedcss\projectbundle\CRUD App.bundle.scp.css
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.dll
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\refint\CRUD App.dll
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.pdb
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\CRUD App.genruntimeconfig.cache
+D:\Coding\OtherLanguages\C-Sharp\CRUD App\obj\Debug\net6.0\ref\CRUD App.dll

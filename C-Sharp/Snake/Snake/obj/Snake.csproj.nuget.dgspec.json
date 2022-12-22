@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding 🧑‍💻💻\\ExtraLanguages\\ExtraLanguages\\C#\\Snake\\Snake\\Snake.csproj": {}
+    "D:\\Coding\\OtherLanguages\\C-Sharp\\Snake\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "D:\\Coding 🧑‍💻💻\\ExtraLanguages\\ExtraLanguages\\C#\\Snake\\Snake\\Snake.csproj": {
+    "D:\\Coding\\OtherLanguages\\C-Sharp\\Snake\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding 🧑‍💻💻\\ExtraLanguages\\ExtraLanguages\\C#\\Snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "D:\\Coding\\OtherLanguages\\C-Sharp\\Snake\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "D:\\Coding 🧑‍💻💻\\ExtraLanguages\\ExtraLanguages\\C#\\Snake\\Snake\\Snake.csproj",
+        "projectPath": "D:\\Coding\\OtherLanguages\\C-Sharp\\Snake\\Snake\\Snake.csproj",
         "packagesPath": "C:\\Users\\carim\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding 🧑‍💻💻\\ExtraLanguages\\ExtraLanguages\\C#\\Snake\\Snake\\obj\\",
+        "outputPath": "D:\\Coding\\OtherLanguages\\C-Sharp\\Snake\\Snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\carim\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,16 +43,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
